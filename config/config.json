@@ -1,0 +1,10 @@
+{
+  "system_settings": {
+    "base_cleanup_cost_per_sq_ft": 45.00,
+    "felony_escalation_threshold_usd": 400.00
+  },
+  "mail_api": {
+    "api_endpoint": "https://api.lob.com/v1/letters",
+    "sandbox_mode": true
+  }
+}
