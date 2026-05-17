@@ -1,0 +1,20 @@
+{
+  "asset_id": "GRAFF_001",
+  "style_classification": "Aggressive Handstyle / Wicked Variant",
+  "medium": "Chisel-Tip Marker / Black Paint",
+  "substrate": "Molded Plastic Container",
+  "visual_elements": {
+    "primary_stroke_weight": "Heavy",
+    "line_geometry": "Angular / Sharp Terminals",
+    "overlapping_layers": true
+  },
+  "text_metadata": {
+    "primary_tag": "Complex Calligraphic Script (Stylized)",
+    "crew_identifiers": [
+      "CMR",
+      "EDR"
+    ]
+  },
+  "status": "Archived / Portfolio Entry"
+}
+

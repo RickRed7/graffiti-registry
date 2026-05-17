@@ -1,0 +1,17 @@
+{
+  "asset_id": "GRAFF_002",
+  "style_classification": "Straight Letter Handstyle / Public Roadway Variant",
+  "medium": "Aerosol Paint / Black",
+  "substrate": "Cinder Block Retaining Wall",
+  "visual_elements": {
+    "primary_stroke_weight": "Medium-Heavy (Overspray Present)",
+    "line_geometry": "Rounded Caps / Flared Terminals",
+    "trailing_extensions": true
+  },
+  "text_metadata": {
+    "primary_tag": "FILTHIE",
+    "crew_identifiers": []
+  },
+  "status": "Archived / Portfolio Entry"
+}
+
